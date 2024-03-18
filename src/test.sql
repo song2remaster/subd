@@ -1,1 +1,1 @@
-insert into repairparts (RepairPartsID, NameCategory, Price) VALUES (2, 2 , 2300.00);
+insert into repairparts (RepairPartsID, NameCategory, Price) VALUES (3, 2 , 1300.00);
